@@ -1,0 +1,23 @@
+{
+  "name": "dj",
+  "version": "1.0.0",
+  "description": "A discord bot for music and more stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KissTC/dj.git"
+  },
+  "keywords": [
+    "music",
+    "discord"
+  ],
+  "author": "Kiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KissTC/dj/issues"
+  },
+  "homepage": "https://github.com/KissTC/dj#readme"
+}
